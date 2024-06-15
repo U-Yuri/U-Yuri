@@ -4,6 +4,7 @@
   - リポジトリ：[github.com/U-Yuri/Memo_App_Rails](https://github.com/U-Yuri/Memo_App_Rails)
   - 使用言語(Rails,ruby,html,css)
 - 2024年4月：[むだゼロ](https://mudazero.uezono.studio/)　（無駄使いを抑えるアプリ）
+  - アプリの詳細：https://u-yuri.hatenablog.com/entry/2024/06/15/230414
   - リポジトリ：[github.com/U-Yuri/mudamuda](https://github.com/U-Yuri/mudamuda)
   - 使用言語(Rails,ruby,html,css)
 - ポケモンカードデッキ制作プリ開発中(２名で共同開発中)
