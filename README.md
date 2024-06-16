@@ -25,7 +25,6 @@
 
 ## ソーシャルアカウント
 - はてなブログ：[U-Yuri’s 備忘録](https://u-yuri.hatenablog.com/archive)
-- X（旧twitter）：
 ## その他のアカウント
 - connpass：[connpass u_yuri](https://connpass.com/user/yuri_03/)
 
