@@ -23,6 +23,9 @@
 - 2022年12月：Web制作会社退職
 - 2023年1月：フィヨルドブートキャンプ（継続中）
 
+## 資格など
+- 2024年7月：Ruby Association Certified Ruby Programmer Silver Version 3
+
 ## ソーシャルアカウント
 - はてなブログ：[U-Yuri’s 備忘録](https://u-yuri.hatenablog.com/archive)
 ## その他のアカウント
